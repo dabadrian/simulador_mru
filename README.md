@@ -31,6 +31,6 @@ Para ejecutar el proyecto localmente necesitas tener instalado:
 
 ```bash
 git clone https://github.com/dabadrian/simulador_mru.git
-cd mru-simulador
+cd simulador_mru
 npm install
 npm run dev
